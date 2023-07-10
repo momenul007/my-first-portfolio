@@ -27,6 +27,12 @@ body{
     line-height: 30px;
 
 }
+.haa{
+    
+    margin: 0 auto;
+    text-align: center;
+    padding: 0;
+}
 
 /* nav relate style  */
 .hadTitle{
@@ -73,7 +79,7 @@ header{
     
 }
 .banear{
-    padding: 30px 30px 0 230px;
+    padding: 0px 0px 0 230px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -81,6 +87,7 @@ header{
     
     background-repeat: no-repeat;
     background-position: bottom right;
+    margin: 0;
 }
 .banerRight{
     width: 584px;
@@ -104,4 +111,43 @@ header{
     line-height: normal;
     padding: 0;
     margin: 0;
+}
+/* main saction style  */
+.sectionTitle{
+    color:  #181818;
+    text-align: center;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about{
+    border-radius: 10px;
+    background: #FFF8F3;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.aboutinfocontiner{
+    display: flex;
+    justify-content:space-around ;
+}
+.infotitle{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #757575;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.infotDiscription{
+    
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
 }
