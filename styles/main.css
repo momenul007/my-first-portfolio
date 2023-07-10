@@ -183,3 +183,48 @@ header{
     box-shadow: 9px 21px 27px -16px;
     padding: 10px;
 }
+main section{
+    margin-top: 130px;
+}
+.summary{
+    display: flex;
+}
+.rtital{
+    color: #474747;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.mctital{
+    color: #474747;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.smct{
+    color:  #757575;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.mcc{
+    display: flex;
+    width: 511px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #757575;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    }
+.left{
+    margin-right: 140px;
+}
+.donwoldoeCV{
+    text-align: center;
+    margin: auto;
+}
